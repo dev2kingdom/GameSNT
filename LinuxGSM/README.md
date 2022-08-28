@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://linuxgsm.com"><img src="https://i.imgur.com/Eoh1jsi.jpg" alt="LinuxGSM"></a>
+  <a href="https://linuxgsm.com"><img src=https://www.ignitepros.com/img/ignite_bannergamehosting.jpg" alt="LinuxGSM"></a>
   </h1>
 
 
