@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.dev2kingdom.net"><img src="https://imgur.com/a/jqkbEaw"></a>
+  <a href="http://www.dev2kingdom.net"><img src="https://i.imgur.com/DEZuluf.jpg"></a>
   </h1>
 _________________________________________________________
 
