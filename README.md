@@ -6,13 +6,13 @@ _________________________________________________________
 _________________________________________________________
 
  
- GAME SERVERS:
+ GAME SERVERS: http://gs.dev2kingdom.net
  - AzerothCore v335a 
  - D2GS v1.13c 
  - LinuxGSM +100 STEAM FPP Games
 
- BUISSNES & PRIVATE SOLUTIONS:
- - 3CX Powered VOIP Systems at : http://voip.dev2kingdom.net
+ BUISSNES & PRIVATE SOLUTIONS: https://host.dev2kingdom.net
+ - 3CX Powered VOIP Systems 
  - Website Hosting
  - Dedicated Server Hosting
  - Installation & Maintenance Services
@@ -26,7 +26,7 @@ COMMING SOON:
  
   
  
- Rent a Game Server at : http://gs.dev2kingdom.net
+
  
 
  
