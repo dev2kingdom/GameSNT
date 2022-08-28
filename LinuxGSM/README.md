@@ -20,10 +20,4 @@ Traditionally game servers are not easy to manage yourself. Admins often have to
 * :floppy_disk: Backup
 * :computer: Console
 
-## :penguin: Compatibility
 
-LinuxGSM will run on popular distros as long as the minimum requirements are met.
-
-* Ubuntu
-* Debian
-* CentOS
