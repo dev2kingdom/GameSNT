@@ -11,7 +11,7 @@ _________________________________________________________
  - D2GS v1.13c 
  - LinuxGSM +100 STEAM FPP Games
 
- BUISSNES & PRIVATE SOLUTIONS: https://host.dev2kingdom.net
+ BUISSNES & PRIVATE SOLUTIONS: http://host.dev2kingdom.net
  - 3CX Powered VOIP Systems 
  - Website Hosting
  - Dedicated Server Hosting
@@ -45,4 +45,4 @@ COMMING SOON:
  - AzerothCore Comunity : https://www.azerothcore.org
  - LinuxGSM Comunity : https://linuxgsm.com
  - PvPGN Comunity : https://pvpgn.pro
- - Dev2Kingdom : https://dev2kingdom.net
+ - Dev2Kingdom : http://dev2kingdom.net
